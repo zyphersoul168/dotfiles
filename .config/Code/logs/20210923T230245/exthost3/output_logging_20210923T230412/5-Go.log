@@ -1,0 +1,28 @@
+Tools environment: GOPATH=/home/op3nk0d3/go_projects, GOBIN=/home/op3nk0d3/go_projects/bin
+Installing 10 tools at the configured GOBIN: /home/op3nk0d3/go_projects/bin in module mode.
+  gopkgs
+  go-outline
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  dlv-dap
+  staticcheck
+  gopls
+
+Installing github.com/uudashr/gopkgs/v2/cmd/gopkgs (/home/op3nk0d3/go_projects/bin/gopkgs) SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline (/home/op3nk0d3/go_projects/bin/go-outline) SUCCEEDED
+Installing github.com/cweill/gotests/gotests (/home/op3nk0d3/go_projects/bin/gotests) SUCCEEDED
+Installing github.com/fatih/gomodifytags (/home/op3nk0d3/go_projects/bin/gomodifytags) SUCCEEDED
+Installing github.com/josharian/impl (/home/op3nk0d3/go_projects/bin/impl) SUCCEEDED
+Installing github.com/haya14busa/goplay/cmd/goplay (/home/op3nk0d3/go_projects/bin/goplay) SUCCEEDED
+Installing github.com/go-delve/delve/cmd/dlv (/home/op3nk0d3/go_projects/bin/dlv) SUCCEEDED
+Installing github.com/go-delve/delve/cmd/dlv@master (/home/op3nk0d3/go_projects/bin/dlv-dap) SUCCEEDED
+Installing honnef.co/go/tools/cmd/staticcheck (/home/op3nk0d3/go_projects/bin/staticcheck) SUCCEEDED
+Installing golang.org/x/tools/gopls (/home/op3nk0d3/go_projects/bin/gopls) SUCCEEDED
+
+All tools successfully installed. You are ready to Go :).
+Starting linting the current package at /home/op3nk0d3/development/go_projects/exercises
+/home/op3nk0d3/development/go_projects/exercises>Finished running tool: /home/op3nk0d3/go_projects/bin/staticcheck
+

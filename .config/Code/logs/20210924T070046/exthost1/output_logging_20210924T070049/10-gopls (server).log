@@ -1,0 +1,30 @@
+[Info  - 07:00:50] 2021/09/24 07:00:49 go env for /home/op3nk0d3/development/go_projects/exercises
+(root /home/op3nk0d3/development/go_projects/exercises)
+(go version go version go1.17.1 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+GOPROXY=https://proxy.golang.org,direct
+GO111MODULE=
+GOMODCACHE=/home/op3nk0d3/go_projects/pkg/mod
+GOPRIVATE=
+GONOPROXY=
+GOPATH=/home/op3nk0d3/go_projects
+GONOSUMDB=
+GOROOT=/usr/local/go
+GOSUMDB=sum.golang.org
+GOCACHE=/home/op3nk0d3/.cache/go-build
+GOFLAGS=
+GOINSECURE=
+GOMOD=/dev/null
+
+
+[Info  - 07:00:50] 2021/09/24 07:00:50 go/packages.Load
+	snapshot=0
+	directory=/home/op3nk0d3/development/go_projects/exercises
+	query=[./ builtin]
+	packages=2
+
+[Info  - 07:02:22] 2021/09/24 07:02:22 background imports cache refresh starting
+
+[Info  - 07:02:22] 2021/09/24 07:02:22 background refresh finished after 6.028827ms
+

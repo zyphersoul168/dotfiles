@@ -1,0 +1,20 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Cascadia Code PL, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.tabSize": 2,
+    "editor.cursorBlinking": "expand",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 1.5,
+    "editor.rulers": [110, 110],
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#fafafa",
+        "editorBracketHighlight.foreground2": "#9F51B6",
+        "editorBracketHighlight.foreground3": "#F7C244",
+        "editorBracketHighlight.foreground4": "#F07850",
+        "editorBracketHighlight.foreground5": "#9CDD29",
+        "editorBracketHighlight.foreground6": "#C497D4",
+    },
+    "workbench.colorTheme": "Ayu Mirage"
+}

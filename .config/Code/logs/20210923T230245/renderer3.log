@@ -1,0 +1,59 @@
+[2021-09-23 23:06:46.090] [renderer3] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:71004:24
+    at Array.forEach (<anonymous>)
+    at convertToCodeSymbols (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70984:17)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70922:12
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:60:24)
+[2021-09-23 23:06:47.267] [renderer3] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:71004:24
+    at Array.forEach (<anonymous>)
+    at convertToCodeSymbols (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70984:17)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70922:12
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:60:24)
+[2021-09-23 23:06:48.867] [renderer3] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:71004:24
+    at Array.forEach (<anonymous>)
+    at convertToCodeSymbols (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70984:17)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70922:12
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:60:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-23 23:06:49.929] [renderer3] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:71004:24
+    at Array.forEach (<anonymous>)
+    at convertToCodeSymbols (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70984:17)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70922:12
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:60:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-23 23:07:29.670] [renderer3] [info] Setting search error: XHR timeout: 5000ms
+[2021-09-23 23:07:29.671] [renderer3] [info] Setting search error: XHR timeout: 5000ms
+[2021-09-23 23:07:35.920] [renderer3] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+    at new s (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:71004:24
+    at Array.forEach (<anonymous>)
+    at convertToCodeSymbols (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70984:17)
+    at /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:70922:12
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:60:24)
+[2021-09-23 23:10:35.006] [renderer3] [error] analysis tests for package _/home/op3nk0d3/development/go_projects/exercises panicked: runtime error: invalid memory address or nil pointer dereference: Error: analysis tests for package _/home/op3nk0d3/development/go_projects/exercises panicked: runtime error: invalid memory address or nil pointer dereference
+    at handleResponse (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:4386:40)
+    at processMessageQueue (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:4224:13)
+    at Immediate.<anonymous> (/home/op3nk0d3/.vscode/extensions/golang.go-0.28.0/dist/goMain.js:4210:11)
+    at processImmediate (internal/timers.js:461:21)

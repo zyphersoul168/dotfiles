@@ -1,0 +1,311 @@
+[Info  - 10:15:30] 2021/09/24 10:15:30 go env for /home/op3nk0d3/development/go_projects/exercises
+(root /home/op3nk0d3/development/go_projects/exercises)
+(go version go version go1.17.1 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+GOFLAGS=
+GOPRIVATE=
+GOROOT=/usr/local/go
+GOCACHE=/home/op3nk0d3/.cache/go-build
+GOINSECURE=
+GOMOD=/dev/null
+GOSUMDB=sum.golang.org
+GOMODCACHE=/home/op3nk0d3/go_projects/pkg/mod
+GOPATH=/home/op3nk0d3/go_projects
+GOPROXY=https://proxy.golang.org,direct
+GO111MODULE=
+GONOPROXY=
+GONOSUMDB=
+
+
+[Info  - 10:15:30] 2021/09/24 10:15:30 go/packages.Load
+	snapshot=0
+	directory=/home/op3nk0d3/development/go_projects/exercises
+	query=[./ builtin]
+	packages=2
+
+[Info  - 10:16:24] 2021/09/24 10:16:24 background imports cache refresh starting
+
+[Info  - 10:16:24] 2021/09/24 10:16:24 background refresh finished after 4.72968ms
+
+[Error - 10:16:33] 2021/09/24 10:16:33 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:4:10: string literal not terminated (and 7 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:16:33] 2021/09/24 10:16:33 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:16:46] 2021/09/24 10:16:46 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:1: expected operand, found '}' (and 5 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:16:47] 2021/09/24 10:16:47 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:1: expected operand, found '}' (and 7 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:16:47] 2021/09/24 10:16:47 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:1: expected operand, found '}' (and 7 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:16:47] 2021/09/24 10:16:47 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Info  - 10:16:54] 2021/09/24 10:16:54 go/packages.Load
+	snapshot=61
+	directory=/home/op3nk0d3/development/go_projects/exercises
+	query=[file=/home/op3nk0d3/development/go_projects/exercises/main.go]
+	packages=1
+
+[Info  - 10:16:54] 2021/09/24 10:16:54 go/packages.Load
+	snapshot=61
+	package="command-line-arguments"
+	files=[/home/op3nk0d3/development/go_projects/exercises/main.go]
+
+[Info  - 10:16:54] 2021/09/24 10:16:54 go/packages.Load
+	snapshot=61
+	directory=/home/op3nk0d3/development/go_projects/exercises
+	query=[file=/home/op3nk0d3/development/go_projects/exercises/main.go]
+	packages=1
+
+[Info  - 10:16:54] 2021/09/24 10:16:54 go/packages.Load
+	snapshot=61
+	package="command-line-arguments"
+	files=[/home/op3nk0d3/development/go_projects/exercises/main.go]
+
+[Info  - 10:16:54] 2021/09/24 10:16:54 falling back to safe trimming due to type errors: [/usr/local/go/src/runtime/vdso_linux.go:55:38: invalid operation: division by zero /usr/local/go/src/runtime/vdso_linux.go:56:38: invalid operation: division by zero] or still-missing identifiers: map[memRecordCycle:true pageBits:true]
+	package="runtime"
+
+[Error - 10:16:55] 2021/09/24 10:16:55 workspace package _/home/op3nk0d3/development/go_projects/exercises not associated with file:///home/op3nk0d3/development/go_projects/exercises/main.go
+	level=1
+
+[Info  - 10:16:55] 2021/09/24 10:16:55 go/packages.Load
+	snapshot=62
+	directory=/home/op3nk0d3/development/go_projects/exercises
+	query=[./]
+	packages=1
+
+[Error - 10:16:58] 2021/09/24 10:16:58 no signature help: cannot find an enclosing function
+	position={7 14}
+
+[Info  - 10:17:01] 2021/09/24 10:17:01 background imports cache refresh starting
+
+[Info  - 10:17:01] 2021/09/24 10:17:01 background refresh finished after 423.788µs
+
+[Info  - 10:17:38] 2021/09/24 10:17:38 background imports cache refresh starting
+
+[Info  - 10:17:38] 2021/09/24 10:17:38 background refresh finished after 379.505µs
+
+[Info  - 10:18:10] 2021/09/24 10:18:10 background imports cache refresh starting
+
+[Info  - 10:18:10] 2021/09/24 10:18:10 background refresh finished after 505.551µs
+
+[Error - 10:18:47] 2021/09/24 10:18:47 unable to compute positions for type errors: no parsed file for  in _/home/op3nk0d3/development/go_projects/exercises
+	package="_/home/op3nk0d3/development/go_projects/exercises"
+
+[Error - 10:18:47] 2021/09/24 10:18:47 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:18:48] 2021/09/24 10:18:48 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:6: expected boolean or range expression, found simple statement (missing parentheses around composite literal?) (and 7 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:49] 2021/09/24 10:18:49 unable to compute positions for type errors: no parsed file for  in _/home/op3nk0d3/development/go_projects/exercises
+	package="_/home/op3nk0d3/development/go_projects/exercises"
+
+[Error - 10:18:49] 2021/09/24 10:18:49 unable to compute positions for type errors: no parsed file for  in _/home/op3nk0d3/development/go_projects/exercises
+	package="_/home/op3nk0d3/development/go_projects/exercises"
+
+[Error - 10:18:49] 2021/09/24 10:18:49 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:18:50] 2021/09/24 10:18:50 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:50] 2021/09/24 10:18:50 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:50] 2021/09/24 10:18:50 unable to compute positions for type errors: no parsed file for  in _/home/op3nk0d3/development/go_projects/exercises
+	package="_/home/op3nk0d3/development/go_projects/exercises"
+
+[Error - 10:18:51] 2021/09/24 10:18:51 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:51] 2021/09/24 10:18:51 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:15: expected operand, found '<' (and 7 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:52] 2021/09/24 10:18:52 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:18:52] 2021/09/24 10:18:52 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:18:53] 2021/09/24 10:18:53 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:54] 2021/09/24 10:18:54 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:54] 2021/09/24 10:18:54 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:14: expected operand, found '<' (and 7 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:54] 2021/09/24 10:18:54 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Info  - 10:18:57] 2021/09/24 10:18:57 background imports cache refresh starting
+
+[Info  - 10:18:57] 2021/09/24 10:18:57 background refresh finished after 404.903µs
+
+[Error - 10:18:57] 2021/09/24 10:18:57 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:21: expected ';', found '{' (and 6 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:18:57] 2021/09/24 10:18:57 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:18:58] 2021/09/24 10:18:58 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:6:21: expected ';', found '{' (and 6 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:16] 2021/09/24 10:19:16 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:15: string literal not terminated (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:16] 2021/09/24 10:19:16 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:17: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:16] 2021/09/24 10:19:16 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:17: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:17] 2021/09/24 10:19:17 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:18: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:17] 2021/09/24 10:19:17 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:19: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:19] 2021/09/24 10:19:19 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:29: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:19] 2021/09/24 10:19:19 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:31: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:21] 2021/09/24 10:19:21 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:36: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:21] 2021/09/24 10:19:21 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:35: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:19:22] 2021/09/24 10:19:22 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:7:37: missing ',' in argument list
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Info  - 10:19:30] 2021/09/24 10:19:30 background imports cache refresh starting
+
+[Info  - 10:19:30] 2021/09/24 10:19:30 background refresh finished after 364.205µs
+
+[Error - 10:20:00] 2021/09/24 10:20:00 no signature help: no signature help within a string literal
+	position={5 14}
+
+[Error - 10:20:09] 2021/09/24 10:20:09 no signature help: no signature help within a string literal
+	position={6 14}
+
+[Info  - 10:20:09] 2021/09/24 10:20:09 background imports cache refresh starting
+
+[Info  - 10:20:09] 2021/09/24 10:20:09 background refresh finished after 384.729µs
+
+[Error - 10:20:23] 2021/09/24 10:20:23 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:8:14: expected operand, found ')' (and 5 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:20:23] 2021/09/24 10:20:23 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:20:38] 2021/09/24 10:20:38 no completions found: this is a definition of var n invalid type
+	position={6 6}
+
+[Error - 10:20:38] 2021/09/24 10:20:38 no completions found: this is a definition of var num invalid type
+	position={6 8}
+
+[Info  - 10:20:40] 2021/09/24 10:20:40 background imports cache refresh starting
+
+[Info  - 10:20:40] 2021/09/24 10:20:40 background refresh finished after 428.601µs
+
+[Info  - 10:21:10] 2021/09/24 10:21:10 background imports cache refresh starting
+
+[Info  - 10:21:10] 2021/09/24 10:21:10 background refresh finished after 257.736µs
+
+[Error - 10:21:24] 2021/09/24 10:21:24 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:24] 2021/09/24 10:21:24 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:25] 2021/09/24 10:21:25 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:25] 2021/09/24 10:21:25 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:28] 2021/09/24 10:21:28 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:29] 2021/09/24 10:21:29 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:29] 2021/09/24 10:21:29 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:29] 2021/09/24 10:21:29 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:29] 2021/09/24 10:21:29 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:29] 2021/09/24 10:21:29 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:30] 2021/09/24 10:21:30 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:30] 2021/09/24 10:21:30 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:30] 2021/09/24 10:21:30 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:31] 2021/09/24 10:21:31 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:31] 2021/09/24 10:21:31 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:15: expected operand, found '=' (and 9 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:34] 2021/09/24 10:21:34 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:17:3: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:35] 2021/09/24 10:21:35 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:17:3: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:35] 2021/09/24 10:21:35 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:17:3: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:37] 2021/09/24 10:21:37 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:17:3: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:38] 2021/09/24 10:21:38 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:15:4: expected '{', found 'break' (and 3 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:39] 2021/09/24 10:21:39 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:15:4: expected '{', found 'break' (and 3 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:39] 2021/09/24 10:21:39 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:15:1: expected '{', found 'break' (and 3 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:40] 2021/09/24 10:21:40 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:20: expected ';', found 'break' (and 8 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Error - 10:21:40] 2021/09/24 10:21:40 DocumentSymbols failed: invalid pos
+	URI=file:///home/op3nk0d3/development/go_projects/exercises/main.go
+
+[Error - 10:21:41] 2021/09/24 10:21:41 imports fixes: AllImportsFixes: /home/op3nk0d3/development/go_projects/exercises/main.go:14:20: expected ';', found 'break' (and 8 more errors)
+	file="/home/op3nk0d3/development/go_projects/exercises/main.go"
+
+[Info  - 10:21:50] 2021/09/24 10:21:50 background imports cache refresh starting
+
+[Info  - 10:21:50] 2021/09/24 10:21:50 background refresh finished after 333.088µs
+
+[Error - 10:22:16] 2021/09/24 10:22:16 no signature help: no signature help within a string literal
+	position={14 16}
+
+[Info  - 10:22:40] 2021/09/24 10:22:40 background imports cache refresh starting
+
+[Info  - 10:22:40] 2021/09/24 10:22:40 background refresh finished after 344.303µs
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Xfce</Name>
+	<DefaultAppDirs />
+	<DefaultDirectoryDirs />
+	<DefaultMergeDirs />
+	<Include>
+		<Category>X-Xfce-Toplevel</Category>
+	</Include>
+	<MergeFile type="parent">/etc/xdg/menus/xfce-applications.menu</MergeFile>
+	<Menu>
+		<Name>Settings</Name>
+		<Directory>xfce-settings.directory</Directory>
+		<Menu>
+			<Name>Screensavers</Name>
+			<Directory>xfce-screensavers.directory</Directory>
+			<Layout>
+				<Merge type="menus" />
+				<Merge type="files" />
+			</Layout>
+		</Menu>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce-settings-manager.desktop</Filename>
+			<Separator />
+			<Filename>xfce4-accessibility-settings.desktop</Filename>
+			<Filename>xfce4-power-manager-settings.desktop</Filename>
+			<Filename>xfce4-clipman-settings.desktop</Filename>
+			<Filename>xfce-wmtweaks-settings.desktop</Filename>
+			<Filename>kasumi.desktop</Filename>
+			<Filename>xfce-ui-settings.desktop</Filename>
+			<Filename>xfce4-mime-settings.desktop</Filename>
+			<Filename>xfce-workspaces-settings.desktop</Filename>
+			<Filename>system-config-printer.desktop</Filename>
+			<Filename>nm-connection-editor.desktop</Filename>
+			<Filename>thunar-settings.desktop</Filename>
+			<Filename>xfce4-terminal-settings.desktop</Filename>
+			<Filename>thunar-volman-settings.desktop</Filename>
+			<Filename>xfce4-settings-editor.desktop</Filename>
+			<Filename>menulibre.desktop</Filename>
+			<Filename>xfce-backdrop-settings.desktop</Filename>
+			<Filename>fcitx5-configtool.desktop</Filename>
+			<Filename>org.fcitx.fcitx5-config-qt.desktop</Filename>
+			<Filename>org.fcitx.fcitx5-migrator.desktop</Filename>
+			<Filename>fcitx-config-gtk3.desktop</Filename>
+			<Filename>fcitx-configtool.desktop</Filename>
+			<Filename>synaptic.desktop</Filename>
+			<Filename>xfce-wm-settings.desktop</Filename>
+			<Filename>ibus-setup-hangul.desktop</Filename>
+			<Filename>im-config.desktop</Filename>
+			<Filename>uim.desktop</Filename>
+			<Filename>setup-mozc.desktop</Filename>
+			<Filename>xfce4-notifyd-config.desktop</Filename>
+			<Filename>panel-preferences.desktop</Filename>
+			<Filename>xfce-display-settings.desktop</Filename>
+			<Filename>xfce4-color-settings.desktop</Filename>
+			<Filename>org.freedesktop.IBus.Setup.desktop</Filename>
+			<Filename>xfce-mouse-settings.desktop</Filename>
+			<Menuname>Screensavers</Menuname>
+			<Filename>xfce-session-settings.desktop</Filename>
+			<Filename>xfce-keyboard-settings.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Accessories</Name>
+		<Directory>xfce-accessories.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce4-about.desktop</Filename>
+			<Filename>xfce4-clipman.desktop</Filename>
+			<Filename>xfce4-appfinder.desktop</Filename>
+			<Filename>thunar-bulk-rename.desktop</Filename>
+			<Filename>xfce4-screenshooter.desktop</Filename>
+			<Filename>menulibre.desktop</Filename>
+			<Filename>xfce4-run.desktop</Filename>
+			<Filename>xfce4-terminal-emulator.desktop</Filename>
+			<Filename>fcitx.desktop</Filename>
+			<Filename>org.fcitx.Fcitx5.desktop</Filename>
+			<Filename>fcitx-skin-installer.desktop</Filename>
+			<Filename>org.gnome.Firmware.desktop</Filename>
+			<Filename>xfce4-file-manager.desktop</Filename>
+			<Filename>thunar.desktop</Filename>
+			<Filename>xfce4-taskmanager.desktop</Filename>
+			<Filename>kbd-layout-viewer5.desktop</Filename>
+			<Filename>mousepad.desktop</Filename>
+			<Filename>mlterm.desktop</Filename>
+			<Filename>nvim.desktop</Filename>
+			<Filename>xiterm+thai.desktop</Filename>
+			<Filename>vim.desktop</Filename>
+			<Filename>xfce4-sensors.desktop</Filename>
+			<Filename>xarchiver.desktop</Filename>
+			<Filename>xfburn.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Development</Name>
+		<Directory>xfce-development.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>python3.9.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce-education.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>goldendict.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Graphics</Name>
+		<Directory>xfce-graphics.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>libreoffice-draw.desktop</Filename>
+			<Filename>ristretto.desktop</Filename>
+			<Filename>xsane.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Network</Name>
+		<Directory>xfce-network.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>menulibre-lanzador-nuevo.desktop</Filename>
+			<Filename>xfce4-mail-reader.desktop</Filename>
+			<Filename>xfce4-web-browser.desktop</Filename>
+			<Filename>firefox-esr.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Games</Name>
+		<Directory>xfce-games.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Multimedia</Name>
+		<Directory>xfce-multimedia.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>pavucontrol.desktop</Filename>
+			<Filename>io.github.quodlibet.ExFalso.desktop</Filename>
+			<Filename>io.github.quodlibet.QuodLibet.desktop</Filename>
+			<Filename>org.xfce.Parole.desktop</Filename>
+			<Filename>xfburn.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Office</Name>
+		<Directory>xfce-office.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>xfce4-dict.desktop</Filename>
+			<Filename>goldendict.desktop</Filename>
+			<Filename>libreoffice-startcenter.desktop</Filename>
+			<Filename>libreoffice-calc.desktop</Filename>
+			<Filename>libreoffice-draw.desktop</Filename>
+			<Filename>libreoffice-impress.desktop</Filename>
+			<Filename>libreoffice-math.desktop</Filename>
+			<Filename>libreoffice-writer.desktop</Filename>
+			<Filename>atril.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>Other</Name>
+		<Directory>xfce-other.directory</Directory>
+		<Include>
+			<Filename>panel-desktop-handler.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>notification-daemon.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>geoclue-demo-agent.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>libreoffice-xsltfilter.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>ibus-setup-mozc-jp.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>gcr-prompter.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>xdg-desktop-portal-gtk.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>nm-applet.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>org.freedesktop.IBus.Panel.Extension.Gtk3.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>org.freedesktop.IBus.Panel.Emojier.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>gcr-viewer.desktop</Filename>
+		</Include>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>panel-desktop-handler.desktop</Filename>
+			<Filename>notification-daemon.desktop</Filename>
+			<Filename>geoclue-demo-agent.desktop</Filename>
+			<Filename>libreoffice-xsltfilter.desktop</Filename>
+			<Filename>ibus-setup-mozc-jp.desktop</Filename>
+			<Filename>gcr-prompter.desktop</Filename>
+			<Filename>xdg-desktop-portal-gtk.desktop</Filename>
+			<Filename>nm-applet.desktop</Filename>
+			<Filename>org.freedesktop.IBus.Panel.Extension.Gtk3.desktop</Filename>
+			<Filename>org.freedesktop.IBus.Panel.Emojier.desktop</Filename>
+			<Filename>gcr-viewer.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Menu>
+		<Name>System</Name>
+		<Directory>xfce-system.directory</Directory>
+		<Layout>
+			<Merge type="menus" />
+			<Filename>thunar-bulk-rename.desktop</Filename>
+			<Filename>system-config-printer.desktop</Filename>
+			<Filename>fcitx.desktop</Filename>
+			<Filename>org.fcitx.Fcitx5.desktop</Filename>
+			<Filename>thunar.desktop</Filename>
+			<Filename>synaptic.desktop</Filename>
+			<Filename>xfce4-taskmanager.desktop</Filename>
+			<Filename>kitty.desktop</Filename>
+			<Filename>mlterm.desktop</Filename>
+			<Filename>xfce4-session-logout.desktop</Filename>
+			<Filename>xfce4-terminal.desktop</Filename>
+			<Filename>xiterm+thai.desktop</Filename>
+			<Filename>debian-uxterm.desktop</Filename>
+			<Filename>xfce4-sensors.desktop</Filename>
+			<Filename>debian-xterm.desktop</Filename>
+			<Merge type="files" />
+		</Layout>
+	</Menu>
+	<Layout>
+		<Filename>xfce4-run.desktop</Filename>
+		<Separator />
+		<Filename>xfce4-terminal-emulator.desktop</Filename>
+		<Filename>xfce4-file-manager.desktop</Filename>
+		<Filename>xfce4-mail-reader.desktop</Filename>
+		<Filename>xfce4-web-browser.desktop</Filename>
+		<Separator />
+		<Menuname>Settings</Menuname>
+		<Separator />
+		<Menuname>Accessories</Menuname>
+		<Menuname>Development</Menuname>
+		<Menuname>Education</Menuname>
+		<Menuname>Graphics</Menuname>
+		<Menuname>Network</Menuname>
+		<Menuname>Games</Menuname>
+		<Menuname>Multimedia</Menuname>
+		<Menuname>Office</Menuname>
+		<Menuname>Other</Menuname>
+		<Menuname>System</Menuname>
+		<Separator />
+		<Filename>xfce4-about.desktop</Filename>
+		<Filename>xfce4-session-logout.desktop</Filename>
+	</Layout>
+</Menu>

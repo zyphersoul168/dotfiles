@@ -1,0 +1,76 @@
+[2021-09-23 23:02:57.572] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-23 23:03:17.572] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-23 23:03:17.573] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-23 23:03:27.572] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-23 23:03:45.753] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-09-23 23:03:46.865] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.25
+[2021-09-23 23:03:47.269] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.b6afc4cc-8519-4d83-80d0-0587572868a8: dbaeumer.vscode-eslint
+[2021-09-23 23:03:47.275] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25
+[2021-09-23 23:03:47.277] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2021-09-23 23:03:47.281] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2021-09-23 23:03:50.231] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-09-23 23:03:56.987] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.0.0
+[2021-09-23 23:03:57.392] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.ee743372-cdb4-45c9-ac0f-cd841f3d99a6: esbenp.prettier-vscode
+[2021-09-23 23:03:57.395] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/esbenp.prettier-vscode-9.0.0
+[2021-09-23 23:03:57.397] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-09-23 23:03:57.400] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-09-23 23:04:00.883] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-09-23 23:04:02.719] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.10.0
+[2021-09-23 23:04:03.371] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.4d2a9e4f-5209-48f4-a5f2-95ccdbf5c8dd: pkief.material-icon-theme
+[2021-09-23 23:04:03.374] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/pkief.material-icon-theme-4.10.0
+[2021-09-23 23:04:03.375] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2021-09-23 23:04:03.378] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2021-09-23 23:04:09.799] [sharedprocess] [info] Installing extension: golang.go
+[2021-09-23 23:04:11.540] [sharedprocess] [info] Downloaded extension: golang.go /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/golang.go-0.28.0
+[2021-09-23 23:04:11.627] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.fc0c17ce-0ea5-4628-b61b-00651a15071c: golang.go
+[2021-09-23 23:04:11.635] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/golang.go-0.28.0
+[2021-09-23 23:04:11.637] [sharedprocess] [info] Extracting completed. golang.go
+[2021-09-23 23:04:11.644] [sharedprocess] [info] Extension installed successfully: golang.go
+[2021-09-23 23:04:19.512] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2021-09-23 23:04:21.519] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.12
+[2021-09-23 23:04:21.569] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.d19eaf01-2bda-4ef9-b304-6c79734042fc: formulahendry.auto-close-tag
+[2021-09-23 23:04:21.573] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/formulahendry.auto-close-tag-0.5.12
+[2021-09-23 23:04:21.574] [sharedprocess] [info] Extracting completed. formulahendry.auto-close-tag
+[2021-09-23 23:04:21.577] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2021-09-23 23:04:22.409] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2021-09-23 23:04:23.503] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.4.0
+[2021-09-23 23:04:23.587] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.947c344b-6059-4d31-bb9a-d7b7c5850507: christian-kohler.path-intellisense
+[2021-09-23 23:04:23.590] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/christian-kohler.path-intellisense-2.4.0
+[2021-09-23 23:04:23.591] [sharedprocess] [info] Extracting completed. christian-kohler.path-intellisense
+[2021-09-23 23:04:23.593] [sharedprocess] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2021-09-23 23:04:31.191] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2021-09-23 23:04:32.240] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/dsznajder.es7-react-js-snippets-3.1.1
+[2021-09-23 23:04:32.258] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.697b389e-b3bc-48c0-ad2e-fdfd7632d14e: dsznajder.es7-react-js-snippets
+[2021-09-23 23:04:32.262] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/dsznajder.es7-react-js-snippets-3.1.1
+[2021-09-23 23:04:32.263] [sharedprocess] [info] Extracting completed. dsznajder.es7-react-js-snippets
+[2021-09-23 23:04:32.265] [sharedprocess] [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+[2021-09-23 23:04:51.574] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2021-09-23 23:04:53.028] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.8
+[2021-09-23 23:04:53.070] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.70156dff-2643-4b82-b45f-098016d54418: formulahendry.auto-rename-tag
+[2021-09-23 23:04:53.074] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8
+[2021-09-23 23:04:53.076] [sharedprocess] [info] Extracting completed. formulahendry.auto-rename-tag
+[2021-09-23 23:04:53.078] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2021-09-23 23:05:46.965] [sharedprocess] [info] Installing extension: burkeholland.simple-react-snippets
+[2021-09-23 23:05:57.354] [sharedprocess] [info] Downloaded extension: burkeholland.simple-react-snippets /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/burkeholland.simple-react-snippets-1.2.4
+[2021-09-23 23:05:57.470] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.b31a10e7-0306-43b8-aed7-e76f32bdec1a: burkeholland.simple-react-snippets
+[2021-09-23 23:05:57.473] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/burkeholland.simple-react-snippets-1.2.4
+[2021-09-23 23:05:57.475] [sharedprocess] [info] Extracting completed. burkeholland.simple-react-snippets
+[2021-09-23 23:05:57.478] [sharedprocess] [info] Extension installed successfully: burkeholland.simple-react-snippets
+[2021-09-23 23:06:06.944] [sharedprocess] [info] Installing extension: windmilleng.vscode-go-autotest
+[2021-09-23 23:06:10.275] [sharedprocess] [info] Downloaded extension: windmilleng.vscode-go-autotest /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/windmilleng.vscode-go-autotest-1.6.0
+[2021-09-23 23:06:12.964] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.24a23a68-89b9-4a73-8460-343bc8203218: windmilleng.vscode-go-autotest
+[2021-09-23 23:06:12.973] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/windmilleng.vscode-go-autotest-1.6.0
+[2021-09-23 23:06:12.975] [sharedprocess] [info] Extracting completed. windmilleng.vscode-go-autotest
+[2021-09-23 23:06:12.980] [sharedprocess] [info] Extension installed successfully: windmilleng.vscode-go-autotest
+[2021-09-23 23:06:27.494] [sharedprocess] [info] Installing extension: formulahendry.terminal
+[2021-09-23 23:06:28.581] [sharedprocess] [info] Downloaded extension: formulahendry.terminal /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/formulahendry.terminal-0.0.10
+[2021-09-23 23:06:28.665] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.1a756fc0-e4be-4e85-a526-216fde839ce8: formulahendry.terminal
+[2021-09-23 23:06:28.670] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/formulahendry.terminal-0.0.10
+[2021-09-23 23:06:28.671] [sharedprocess] [info] Extracting completed. formulahendry.terminal
+[2021-09-23 23:06:28.673] [sharedprocess] [info] Extension installed successfully: formulahendry.terminal
+[2021-09-23 23:11:14.334] [sharedprocess] [info] Installing extension: fabiospampinato.vscode-monokai-night
+[2021-09-23 23:11:15.642] [sharedprocess] [info] Downloaded extension: fabiospampinato.vscode-monokai-night /home/op3nk0d3/.config/Code/CachedExtensionVSIXs/fabiospampinato.vscode-monokai-night-1.6.0
+[2021-09-23 23:11:15.673] [sharedprocess] [info] Extracted extension to /home/op3nk0d3/.vscode/extensions/.2b4db313-50ca-4b56-9935-af2feba49028: fabiospampinato.vscode-monokai-night
+[2021-09-23 23:11:15.677] [sharedprocess] [info] Renamed to /home/op3nk0d3/.vscode/extensions/fabiospampinato.vscode-monokai-night-1.6.0
+[2021-09-23 23:11:15.681] [sharedprocess] [info] Extracting completed. fabiospampinato.vscode-monokai-night
+[2021-09-23 23:11:15.685] [sharedprocess] [info] Extension installed successfully: fabiospampinato.vscode-monokai-night
